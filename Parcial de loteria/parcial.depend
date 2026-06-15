@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781458758 source:c:\users\lenovo thinkpad t450\documents\yeironi\parcial\main.c
+	<stdio.h>
+	<time.h>
+
